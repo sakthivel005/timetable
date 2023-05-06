@@ -107,4 +107,7 @@ Execute the program
 
 # OUPUT
 ![timetable](https://user-images.githubusercontent.com/120550359/236637895-72ab159b-0a03-4666-9a4d-aaaeba148c46.jpg)
-
+ 
+ 
+#RESULT:
+Thus the code has been executed successfully
