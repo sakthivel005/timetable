@@ -110,7 +110,11 @@ Execute the program
 # OUTPUT
 ![timetable](https://user-images.githubusercontent.com/120550359/236637895-72ab159b-0a03-4666-9a4d-aaaeba148c46.jpg)
 
-#HTML VALIDATOR:
+# SERVER OUTPUT
+![Screenshot 2023-05-12 091047](https://github.com/sakthivel005/timetable/assets/120550359/e72e6fac-4c80-415d-b3b6-8edef9630351)
+
+
+# HTML VALIDATOR:
 ![Screenshot (32)](https://github.com/sakthivel005/timetable/assets/120550359/5e0ecb50-07de-41be-bff9-3ae80b9cacda)
 
  
