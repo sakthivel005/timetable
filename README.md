@@ -13,7 +13,8 @@ Add your timetable
 ### STEP 4
 Execute the program
 
-# CODE
+# CODE:
+```html
 <html>
     <head>
         <title>
@@ -104,8 +105,9 @@ Execute the program
         </TABLE>
     </body>
 </html>
+```
 
-# OUPUT
+# OUTPUT
 ![timetable](https://user-images.githubusercontent.com/120550359/236637895-72ab159b-0a03-4666-9a4d-aaaeba148c46.jpg)
  
  
